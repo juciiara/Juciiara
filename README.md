@@ -2,10 +2,10 @@
 
 
 - 👩‍💻 Hoje trabalho com Back-end e Font-end
-- 🌱
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- 
+- 
+- 
+- 
+- 
+-
